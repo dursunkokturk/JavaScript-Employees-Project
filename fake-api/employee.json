@@ -1,0 +1,22 @@
+{
+  "employees": [
+    {
+      "name": "Serhat Say",
+      "department": "Bilişim",
+      "salary": 3000,
+      "id": 1
+    },
+    {
+      "name": "Dursun Köktürk",
+      "department": "Bilişim",
+      "salary": 4000,
+      "id": 2
+    },
+    {
+      "name": "Hakan Acar",
+      "department": "Pazarlama",
+      "salary": 3000,
+      "id": 3
+    }
+  ]
+}
